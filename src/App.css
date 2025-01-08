@@ -1,10 +1,13 @@
-/* Wrapper */
+body {
+  color: white;
+}
 
+/* Wrapper */
 #wrapper {
   background: linear-gradient(
     90deg,
     #212931 0%,
-    rgb(84, 47, 22) 50%,
+    rgb(95, 83, 71) 50%,
     #212931 100%
   );
   width: 100vw;
