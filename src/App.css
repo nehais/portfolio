@@ -1,0 +1,12 @@
+/* Wrapper */
+
+#wrapper {
+  background: linear-gradient(
+    90deg,
+    #212931 0%,
+    rgb(84, 47, 22) 50%,
+    #212931 100%
+  );
+  width: 100vw;
+  height: 100vh;
+}
